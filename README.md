@@ -28,6 +28,8 @@ sudo systemctl stop jenkins
 sudo nano /var/lib/jenkins/config.xml
 
 <useSecurity>false</useSecurity>
+![image](https://github.com/user-attachments/assets/69a4cf66-941e-43e8-999e-11773d1d13a1)
+
 
 sudo systemctl start jenkins
 
