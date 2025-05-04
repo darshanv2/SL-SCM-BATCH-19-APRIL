@@ -34,5 +34,13 @@ sudo nano /var/lib/jenkins/config.xml
 sudo systemctl start jenkins
 
 
+## Pipeline Plugins
 
+Pipeline
+
+Pipeline: Stage View
+
+Pipeline: Build Steps
+
+Pipeline: Basic Steps
 
